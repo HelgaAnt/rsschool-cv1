@@ -37,11 +37,4 @@
 *	2010 г. Курс MS – 6232 «Внедрение БД MS SQL Server 2008» УЦ «SoftLine»
 *	2010 г. Семинар «Средства мониторинга MS SQL Server 2008», ОАО «ИРЗ»
 
-**Языки программирования и технологии:**
-
-*	HTML, JavaScript, AngularJS, ASP.NET,  C# 
-*	MS SQL Server  
-*	.NET framework  , ORM (Entity Framework),  LINQ  
-*	SVN, RedMine, UML
-
 
