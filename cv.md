@@ -43,5 +43,5 @@
 *	MS SQL Server  
 *	.NET framework  , ORM (Entity Framework),  LINQ  
 *	SVN, RedMine, UML
-?	опыт разработки многозвенных клиент-серверных приложений, клиентских и серверных компонентов
+
 
